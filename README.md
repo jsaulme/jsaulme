@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @jsaulme
-- 👀 I’m interested in data science...
-- 🌱 I’m currently learning on Python...
-- 💞️ I’m looking to collaborate on projects like a begginer data analyst...
-- 📫 Mail me with my user name at gmail...
+# <div align="center">👋 ¡Hola, soy Saul Martinez! 🚀</div>
 
-<!---
-jsaulme/jsaulme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/1328501">
+    <img src="https://img.shields.io/github/followers/1328501?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:jsaulme@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-me-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/jsaul-martinezes/)">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
+<h2 align="center"> 📄 Sobre mí</h2>
+Soy un Cientifico de Datos apasionado por la tecnología, los datos y la innovación. Me encanta colaborar en proyectos que marcan la diferencia y siempre estoy buscando aprender nuevas habilidades y mejorar las existentes.
+
+<h2 align="center">🚀 Habilidades</h2>
+
+```Python
+Lenguajes de Programacion:
+  - Python
+  - JavaScript
+  - R
+Desarrollo Web:
+  - HTML
+  - CSS
+  - React
+Bases de Datos:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+Herramientas & Tecnologías:
+  - Git y GitHub
+  - Docker
+  - AWS
+```
+
